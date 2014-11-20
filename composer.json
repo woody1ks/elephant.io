@@ -1,6 +1,6 @@
 {
-    "name": "wisembly/elephant.io",
-    "type": "Lib",
+    "name": "oncesk/elephant.io",
+    "type": "library",
     "description": "Send events to socket.io though PHP",
     "keywords": ["Nodejs", "Socket.io", "WebSocket"],
     "license": "GPL",
